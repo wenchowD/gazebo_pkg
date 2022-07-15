@@ -51,7 +51,7 @@ Package说明：
 
 编辑自己的场地：
 
-    1.终端输入以下命令来倒入一个现成的世界：
+    1.终端输入以下命令来导入一个现成的世界：
     gazebo /XXX_ws/src/gazebo_pkg/XXX.world (替换成自己的存储.world文件的地址)
 
     2.gazebo图形界面左上角点击Insert，再点击想要添加的模型名称可向世界添加模型
