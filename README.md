@@ -47,5 +47,24 @@ Package说明：
         替换 materials/textures目录下的 XXX.png（e.g. person.png）
         注意图片格式为png且名称保持前后一致
 
-        
+
+
+编辑自己的场地：
+
+    1.终端输入以下命令来倒入一个现成的世界：
+    gazebo /XXX_ws/src/gazebo_pkg/XXX.world (替换成自己的存储.world文件的地址)
+
+    2.gazebo图形界面左上角点击Insert，再点击想要添加的模型名称可向世界添加模型
+
+    3.gazebo图形界面上方可调整模型位置以及姿态
+
+    *.更多操作请见参考
+
+
+
+参考：
+
+    画墙：https://classic.gazebosim.org/tutorials?cat=build_world&tut=building_editor
+    贴图：https://www.guyuehome.com/37739
+    URDF：略
 
