@@ -1,4 +1,5 @@
 使用方法：
+
     1.将gazebo_pkg包复制到工作空间src目录下
 
     2.先catkin_make编译，再source bashrc或setup.bash
